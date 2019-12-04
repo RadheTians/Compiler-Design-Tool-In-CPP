@@ -136,7 +136,7 @@ This tool has nine buttons, one input field and one output field and their worki
 		
 		The string wiil be something like c, aca,aabbcbbaa, bacab and so on...
 
-<b>Attention:-</b> 
+<b>Attention:-</b> The separater between left and right in Context-Free-Grammar(CFG) is <b>#</b> and the epsilan has been represened by <b>@</b>.  
 
 
 
